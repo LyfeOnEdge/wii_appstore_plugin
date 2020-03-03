@@ -1,6 +1,4 @@
-from gui.plugins import basePlugin
-from gui.widgets import categoryPage
-from gui.widgets import installedCategoryPage
+from gui.widgets import basePlugin, categoryPage, installedCategoryPage
 from appstore import Appstore
 
 REPO = "http://brewtools.dev/osc-redist/"
